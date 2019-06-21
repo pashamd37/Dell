@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 public class NewTest {
 	
 	 public String baseUrl = "https://www.amazon.in/";
-	 String driverPath = "C:\\Users\\mohammadp\\Desktop\\Drivers\\chromedriver.exe";
+	 String driverPath = "C:\\Users\\mohammadp\\Desktop\\chromedriver.exe";
 	 String Webdriver = "webdriver.chrome.driver";
 	 public WebDriver driver ;
 	 
